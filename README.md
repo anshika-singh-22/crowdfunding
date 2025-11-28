@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Project Vision
-To empower global communities by enabling trustless, transparent, and borderless fundraising using Ethereum smart contracts.
+To empower global communities by enabling trustless, transparent, and borderless fundraising using Ethereum smart contracts — ensuring that anyone, anywhere, can contribute or receive support without intermediaries, delays, or hidden fees. Our goal is to redefine social impact by providing a decentralized platform where funds are secure, accessible, and fully verifiable on the blockchain, fostering global collaboration and financial inclusion.
 
 ---
 
